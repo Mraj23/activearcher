@@ -1,0 +1,14 @@
+You can find the link to my youtube video here:
+
+Term Project Deliverable 3 - Raj Mehta
+
+yt link: https://youtu.be/sF_LzRn_sfY
+
+Notes about the video:
+
+A small mistake I made:
+The purple projectiles come toward my location at the point that they were fired.
+The enemies work together to trap me with the purple projectile. 
+
+
+
