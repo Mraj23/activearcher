@@ -1,4 +1,4 @@
-#Active Archer - An OpenCV Game
+# Active Archer - An OpenCV Game
 
 Welcome to my first coding project. I made an interactive game that uses a webcam to track player movement to hit targets.
 
